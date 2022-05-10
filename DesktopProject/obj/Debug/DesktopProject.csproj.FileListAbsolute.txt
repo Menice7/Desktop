@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\bin\Debug\DesktopProject.exe.config
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\bin\Debug\DesktopProject.exe
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\bin\Debug\DesktopProject.pdb
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.Form1.resources
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.Properties.Resources.resources
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.exe
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.pdb
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.Add.resources
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.MainForm.resources
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.Sign_Up.resources
+C:\Users\Asus\source\repos\DesktopProject\DesktopProject\obj\Debug\DesktopProject.Update.resources
